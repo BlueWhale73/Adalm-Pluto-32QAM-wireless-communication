@@ -1,7 +1,5 @@
 FUNCTION REFERENCE
 ==============================================================
-ADALM-Pluto QAM + BCH Digital Communications Link (MATLAB)
-==============================================================
 
 Every function, method, and System object called across the three
 scripts, grouped by origin. Dependency note: the project needs
