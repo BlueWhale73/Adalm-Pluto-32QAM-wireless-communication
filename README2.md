@@ -1,5 +1,4 @@
-==============================================================
-FUNCTION REFERENCE
+%FUNCTION REFERENCE
 ADALM-Pluto QAM + BCH Digital Communications Link (MATLAB)
 ==============================================================
 
