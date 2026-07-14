@@ -1,5 +1,3 @@
-# Adalm-Pluto-32QAM-wireless-communication
-
 ==============================================================
 FUNCTION REFERENCE
 ADALM-Pluto QAM + BCH Digital Communications Link (MATLAB)
